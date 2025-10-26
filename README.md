@@ -1,4 +1,5 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
+<img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/4b72ec13-405f-4370-afa7-f19befc3e709" />
 
 ## Primeiro desafio 
 Descrição do Desafio
