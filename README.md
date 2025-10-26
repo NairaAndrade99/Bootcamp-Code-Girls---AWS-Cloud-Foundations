@@ -1,5 +1,5 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/e90deed6-42df-40a9-9adb-b9dbef0169c3" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e90deed6-42df-40a9-9adb-b9dbef0169c3" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46f8d8e3-e549-411d-998a-9a78152fe30d" /> EC2 -> Elastic Compute Cloud 
