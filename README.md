@@ -1,6 +1,7 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
 <img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/4b72ec13-405f-4370-afa7-f19befc3e709" />
 
+
 ## Primeiro desafio 
 Descrição do Desafio
 Este laboratório tem como objetivo consolidar seus conhecimentos em gerenciamento de instâncias EC2 na AWS. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para os seus estudos e futuras implementações.
