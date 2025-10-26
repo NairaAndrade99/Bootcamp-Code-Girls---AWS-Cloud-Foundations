@@ -1,7 +1,7 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
 <img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/4b72ec13-405f-4370-afa7-f19befc3e709" />
 -----------
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
 
 
 ## Primeiro desafio 
