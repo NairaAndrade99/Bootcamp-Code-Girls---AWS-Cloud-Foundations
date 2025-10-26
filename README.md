@@ -5,6 +5,8 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46f8d8e3-e549-411d-998a-9a78152fe30d" /> EC2 -> Elastic Compute Cloud 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/70b1f1f4-26e7-4e5c-a1b9-e240338d779b" /> EBS -> Elastic Block Store 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/be49f31e-5eed-4b8c-95e0-559e6436934c" /> S3 -> Simples Storage Service 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05b3903c-af6c-4479-a82d-60198adb0671" /> AMI -> Amazon Machine Image 
+
 
 
 ## Primeiro desafio 
