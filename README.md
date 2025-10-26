@@ -2,6 +2,8 @@
 <img width="900" height="250" alt="image" src="https://github.com/user-attachments/assets/4b72ec13-405f-4370-afa7-f19befc3e709" />
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46f8d8e3-e549-411d-998a-9a78152fe30d" /> EC2 -> Elastic Compute Cloud 
+
 
 
 ## Primeiro desafio 
