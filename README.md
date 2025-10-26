@@ -24,3 +24,7 @@ Conecta-se ao banco RDS.
 Deleta registros com mais de 30 dias na tabela usuarios.
 
 Configure a Lambda para ser executada automaticamente 1 vez por dia usando o EventBridge (CloudWatch Events).
+
+
+<img width="730" height="398" alt="image" src="https://github.com/user-attachments/assets/242c5fd2-af6b-41a0-ab6c-0012fdc7812e" />
+
