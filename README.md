@@ -8,6 +8,8 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/be49f31e-5eed-4b8c-95e0-559e6436934c" /> S3 -> Simples Storage Service 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6e20a4e9-00a1-468e-9eff-2333706854d5" /> AMI -> Amazon Machine Image 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cf93f3ee-7375-460c-ba88-3f55e7d5e0b7" /> Lambda Function 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fd94a2eb-0e41-4d2b-822e-b8ffc70d16a0" /> VPC-> Virtual Private Cloud
+
 
 
 
