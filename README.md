@@ -1,7 +1,7 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
 <img width="1118" height="438" alt="image" src="https://github.com/user-attachments/assets/72c1beb9-2184-4e7d-ae47-588ddfcc9aa2" />
 
-
+<t2>IMA -> Identity and Access Management <\t2>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46f8d8e3-e549-411d-998a-9a78152fe30d" /> EC2 -> Elastic Compute Cloud 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/70b1f1f4-26e7-4e5c-a1b9-e240338d779b" /> EBS -> Elastic Block Store 
@@ -10,6 +10,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cf93f3ee-7375-460c-ba88-3f55e7d5e0b7" /> Lambda Function 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fd94a2eb-0e41-4d2b-822e-b8ffc70d16a0" /> VPC-> Virtual Private Cloud
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16b675cc-1bf8-4f35-a09b-abd7013b8389" /> Route S3 -> 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9cabf3bf-66a4-445d-88f9-a4529f23efa3" /> Elastic Loard Balancer
 
 
 
