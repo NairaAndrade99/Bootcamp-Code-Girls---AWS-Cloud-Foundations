@@ -1,7 +1,7 @@
 # Bootcamp-Code-Girls---AWS-Cloud-Foundations
 <img width="1118" height="438" alt="image" src="https://github.com/user-attachments/assets/72c1beb9-2184-4e7d-ae47-588ddfcc9aa2" />
 
-<h2>IMA -> Identity and Access Management <h2>
+
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/60be57a8-3053-4ede-b757-01a82a4dc10a" /> IMA -> Identity and Access Management 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/46f8d8e3-e549-411d-998a-9a78152fe30d" /> EC2 -> Elastic Compute Cloud 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/70b1f1f4-26e7-4e5c-a1b9-e240338d779b" /> EBS -> Elastic Block Store 
@@ -11,6 +11,14 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fd94a2eb-0e41-4d2b-822e-b8ffc70d16a0" /> VPC-> Virtual Private Cloud
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/16b675cc-1bf8-4f35-a09b-abd7013b8389" /> Route S3 -> 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9cabf3bf-66a4-445d-88f9-a4529f23efa3" /> Elastic Loard Balancer
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7b72f8c7-1ee2-46bf-98fc-641bde668ab5" /> RDS -> Relational Database Service
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10fe43f3-f4ba-4646-95b8-6771c60f0ab6" /> DynamoDB
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b7ff3ac-ddbd-41b7-ac68-7213e9eb94ee" /> Glacier S3
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/aa080b91-7d61-4bfa-988f-e11d543496f8" /> CloudFront 
+
+
+
+
 
 
 
